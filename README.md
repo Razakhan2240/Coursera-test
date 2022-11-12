@@ -1,43 +1,43 @@
-# Coursera-test
-Coursera test repository
-Coursera: HTML, CSS, and Javascript for Web Developers Module 2 Coding Assignment Completed.
 
-https://github.com/Razakhan2240/Coursera-test/edit/main/README.md
 
-Hurrah! You have to do some coding! Exciting!
+Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-Time to complete: 1-2 hours. If you absorb the material in this module well, it may take less time.
+link: https://selenearzola.github.io/coursera-course-module2-assignment/
 
-If you get stuck, ask in the discussions! We're all learning, and getting stuck and unstuck (even with someone's help) can be a very valuable learning experience!
+Woo-hoo! You get to do some coding! Exciting!
 
-Don't be alarmed by the number of points below. It's really not that much. I wanted to explain everything as clearly as possible and break it down into smaller steps.
+Time to complete: 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.
 
-Here's what you'll need to complete the quest:
+Ask questions in Discussions if you get stuck! We are all learning, and going through getting stuck and then unstuck (even with someone's help) can be a very valuable learning experience!
 
-(If you haven't already) Create a GitHub.com account and the repository you'll be using for this class.
+Don't get scared by the number of points below. It's really not so much. I just wanted to explain everything as clearly as I could and break it down into smaller steps.
 
-(If you haven't done so already) Follow the instructions in the development setup video (start of module 1) to create a repository and set it up to host and view your finished website on GitHub, i.e. GitHub.io domain name. You will need to enter this URL for your peer review.
+Here is what you will need to complete the assignment:
 
-Create a folder in your repository that will serve as the container folder for your solution to this task. You can call it whatever you want. For example module2-solution or mod2_solution etc. Create an index.html file in the solution container folder eg module2-solution/index.html.
+(If you haven't already) Create a GitHub.com account and a repository that you will use for this class.
 
-The implementation of the page you will create should follow the mockup illustrations below. You have 3 mockups available: computer, tablet and mobile. Your implementation must ONLY be 1 page, NOT 3 pages. In other words, you will be creating a single responsive page.
+(If you haven't already) Follow the Development Setup Video (beginning of Module 1) instructions on how to create a repository and set it up such that you can host and view your finished web pages on GitHub Pages, i.e., GitHub.io domain name. You will need to provide that URL for your peer review.
 
-Your page must contain a CSS file. No inline styles are allowed. Your CSS file should be placed in the css folder in the solution container folder, eg module2-solution/css.
+Create a folder in your repository that will serve as a container folder for your solution to this assignment. You can call it whatever you want. For example, module2-solution or mod2_solution, etc. Create an index.html file inside the solution container folder, e.g., module2-solution/index.html.
 
-You MUST NOT use any CSS (or Javascript) framework for this assignment, including the Twitter Bootstrap CSS Framework. There should also be no references to any CSS framework files in your index.html, even if you don't use them. However, you CAN use the simple responsive framework we developed in Lecture 24 as a starting point for this assignment.
+The implementation of the page you will be creating should follow the mockup illustrations shown below. You are provided 3 mockups: desktop, tablet, and mobile. Your implementation has to be JUST 1 page, NOT 3 pages. In other words, you will be creating a single, responsive page.
 
-You need to implement the following breakpoints to be considered for desktop, tablet and mobile devices. The browser should display the desktop version of the site when the width of the browser window is 992 pixels or more. The tablet view should only appear if the width of the browser window is between 768 and 991 pixels inclusive. The mobile view should only appear if the browser width is equal to or less than 767 pixels.
+Your page must include a CSS file. No inline styles allowed. Your CSS file should be placed into a css folder under the solution container folder, e.g., module2-solution/css.
 
-Your site is very simple. It consists of a page title and 3 sections (all in one line in desktop view). Each section contains some text. You can make it dummy text/"lorem ipsum", it doesn't matter. The layout of the sections on the screen depends on the width of the browser window. (Hint: use the media queries described in Lecture 23.)
+You are NOT allowed to use any CSS (or Javascript) framework for this assignment, including Twitter Bootstrap CSS Framework. No framework CSS files should even be referenced in your index.html, even if you are not using them. However, you MAY use the simple responsive framework we developed in Lecture 24 as a starting point for this assignment.
 
-Layout: In desktop view (992 pixels and above), each of the 3 parts should take up the same amount of screen space. As you enlarge or shrink the browser window, each section should expand or shrink. (Hint: use percentages to define the width and use the 'float' property. See Lecture 24). For a visual reference to this view, see the Desktop Mockup image below.
+You must implement the following breakpoints that will be considered desktop, tablet, and mobile. The browser should display a desktop version of the site when the width of the browser window is 992px and above. Tablet view should appear only if the width of the browser window is between 768px and 991px, inclusively. Mobile view should appear only if the width of the browser is equal to or less than 767px.
 
-Layout: In a tablet view (768 to 991 pixels inclusive), the first 2 sections should be on the first line and should be the same size. The 3rd section should be in the second row and occupy the entire row by itself. For a visual reference to this view, see the tablet mockup image below.
+Your site is very simple. It consists of a page heading and 3 sections (all in one row in the desktop view). Each section contains some text. You can make it dummy text/"lorem ipsum", it doesn't matter. How the sections are laid out on the screen depends on the width of the browser window. (Hint: use media queries discussed in Lecture 23.)
 
-Layout: In a mobile view (equal to or less than 767 pixels), each section should occupy an entire row. For a visual reference to this view, see the mobile model image below.
+Layout: In the desktop view (992px and above), each of the 3 sections should take up equal amount of space on the screen. As you make the browser window wider or narrower, each section should become wider or narrower. (Hint: use percentages to define width and use the 'float' property. See Lecture 24). For a visual reference of this view, see the desktop mockup illustration below.
 
-Section Title Area: Every section should have a section title area that is always located in the top right corner of the section regardless of the display (desktop, tablet, or mobile). Copy the names from the mockup illustration (eg Chicken, Beef, Sushi) or come up with your own. (Hint: use relative and absolute positioning and offsets as discussed in Lecture 22.)
+Layout: In the tablet view (between 768px and 991px, inclusively), the first 2 sections should be in the first row and be of equal size. The 3rd section should be in the second row and take up the entire row by itself. For a visual reference of this view, see the tablet mockup illustration below.
 
-Spacing: Pay attention to the spacing shown in the layout illustrations. Note the spacing between sections (horizontal and vertical). Notice the horizontal gap between the edges of the slice and the edges of the browser window. Also notice the space between the dummy text in each section and the section border. Finally, make sure the dummy text is "pushed down" enough to not overlap the section title area. (Hint: use margins and padding, and use border-box as the border size as shown in lecture 19.)
+Layout: In the mobile view (equal to or less than 767px), each section should take up the entire row. For a visual reference of this view, see the mobile mockup illustration below.
 
-Borders and Colors: Each section should have a background color set to some color (of your choice). Set the background color of each section title area to some unique color (of your choice). Make sure the background color still allows the user to see the text in the section title and section title areas. Depending on the color you choose, you may want to change the color of the text to make it easy to read. Set a black border on both the section title and section title area to be 1 pixel thick. Warning: While not specifying borders and colors as required won't hurt your grade that much, if you don't, it will be much harder for your classmates to grade the rest of your assignment, which could result in a much lower grade.
+Section title region: Each section should have a section title region that is always positioned at the top right corner of the section no matter the view (desktop, tablet or mobile). Copy the titles from the mockup illustration (i.e., Chicken, Beef, Sushi) or come up with your own. (Hint: use relative and absolute positioning and offsets as discussed in Lecture 22.)
+
+Spacing: Pay attention to the spacing shown in the mockup illustrations. Note the spacing between sections (both horizontal and vertical). Note the horizontal spacing between the edges of the section and the edges of the browser window. Also, note the spacing between the dummy text in each section and the edges of the section. Lastly, make sure the dummy text is "pushed down" enough so it doesn't overlap the section title region. (Hint: use margins and padding and use border-box as your box-sizing as discussed in Lecture 19.)
+
+Borders and Colors: Each section should have a background color set to some color (of your choosing). Set the background color of each section title region to some unique color (of your choosing). Make sure that the background color still allows the user to view the text in the section and section title regions. Depending on the color you choose, you may want to change the color of the text so it can be easy to read. Set a black border on both the section and section title region that is 1px thick. Warning: While not specifying borders and colors according to the requirements does not hurt your grade so much, not doing so will make it much harder for your classmates to peer grade the rest of your assignment, possibly resulting in a much lower grade.
